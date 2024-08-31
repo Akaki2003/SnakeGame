@@ -14,6 +14,6 @@ This is a basic implementation of the classic Snake game using the SDL2 library.
 - Simple and intuitive controls
 
 ## Installation
-1. Clone the repository:
+   Clone the repository:
    ```sh
    git clone https://github.com/Akaki2003/SnakeGame.git
